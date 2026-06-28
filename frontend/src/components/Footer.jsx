@@ -10,11 +10,11 @@ const DEVELOPERS = [
     icon: '👨‍💼'
   },
   {
-    name: 'Reddi Sekhar',
+    name: 'BOMMANABOINA YASWANTH',
     title: 'Full-Stack Developer',
     roles: ['Frontend Specialist', 'Next.js & TypeScript Expert'],
-    email: 'reddisekharmarugani@gmail.com',
-    phone: '+91 9346414887',
+    email: 'bommanaboinayaswanth1010@gmail.com',
+    phone: '+91 6301393617',
     icon: '👨‍💻'
   }
 ]
@@ -38,7 +38,7 @@ export default function Footer() {
             <li><a href="/">Home</a></li>
             <li><a href="/onboarding">Onboarding</a></li>
             <li><a href="/explore">Explore</a></li>
-            <li><a href="https://github.com/kuruvamunirangadu/Career-path-Navigator" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+            <li><a href="https://github.com/bommanaboinayaswanth/Career-path-recognization" target="_blank" rel="noopener noreferrer">GitHub</a></li>
           </ul>
         </div>
 
@@ -95,7 +95,7 @@ export default function Footer() {
       <div className="footer-bottom">
         <p className="copyright">© 2026 Career Navigator. All rights reserved.</p>
         <p className="footer-credit">
-          Proudly developed by <strong>Muni Rangadu</strong> & <strong>Reddi Sekhar</strong>
+          Proudly developed by <strong>Muni Rangadu</strong> & <strong>BOMMANABOINA YASWANTH</strong>
         </p>
       </div>
     </footer>
